@@ -1,0 +1,13 @@
+cookie:     0x59b997fa
+
+4019a2      movq %rax, %rdi
+401a06      movq %rsp, %rax
+
+401a07      movl %esp, %eax
+4019a3      movl %eax, %edi
+4019dd      movl %eax, %edx
+401a34      movl %edx, %ecx
+401a13      movl %ecx, %esi
+
+4019ab      popq %rax
+
